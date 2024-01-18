@@ -1,6 +1,6 @@
 {
   "name": "@learn-anything/urql-solid",
-  "version": "0.0.1-beta",
+  "version": "0.0.1-alpha",
   "description": "Solid bindings for urql",
   "repository": {
     "type": "git",
