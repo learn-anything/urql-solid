@@ -1,0 +1,21 @@
+{
+  "name": "urql-solid-monorepo",
+  "description": "Solid bindings for urql",
+  "workspaces": [
+    "packages/urql-solid",
+    "packages/demo"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-anything/urql-solid.git"
+  },
+  "author": "Jeet Mandaliya (github: sereneinserenade)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-anything/urql-solid/issues"
+  },
+  "homepage": "https://github.com/learn-anything/urql-solid#readme"
+}
